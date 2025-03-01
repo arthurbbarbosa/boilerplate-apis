@@ -1,0 +1,12 @@
+{
+  "name": "api_template",
+  "version": "1.0.0",
+  "main": "./src/index.js",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "dependencies": {
+    "uWebSockets.js": "uNetworking/uWebSockets.js#v20.51.0"
+  },
+  "type": "module"
+}
